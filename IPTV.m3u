@@ -1,2 +1,7 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=100000
 https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/CNTV.m3u
+
+#EXT-X-STREAM-INF:BANDWIDTH=100000
 https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/CCTV.m3u
